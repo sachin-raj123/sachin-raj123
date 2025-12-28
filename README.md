@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Raj</h1>
 <h3 align="center">App and MERN stack developer passionate about Machine Learning and AI</h3>
 
-<img align="right" alt="coding" width="230"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img align="right" alt="coding" width="230"  src="https://iconscout.com/illustrations/developer-using-laptop"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sachin-raj1238&style=flat" alt="Profile views" />
