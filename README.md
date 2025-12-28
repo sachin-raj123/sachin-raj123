@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Raj</h1>
-<h3 align="center">App and MERN stack developer passionate about Machine Learning and AI</h3>
+<h3 align="center"> MERN stack developer passionate about Machine Learning and AI</h3>
 
 <img align="right" alt="coding" width="300"  src="https://cdni.iconscout.com/illustration/premium/thumb/developer-using-laptop-illustration-svg-download-png-11934874.png"/>
 
