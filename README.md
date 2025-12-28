@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at <br/> "https://portfolio-three-rust-93.vercel.app/"
   
-- ⚡ Fun fact **Not a pro, but getting better every commit**
+- ⚡ Fun fact: **Not a pro, but getting better every commit**
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
