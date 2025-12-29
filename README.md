@@ -9,7 +9,7 @@
    
 - 🌱 I’m currently learning **Python**
   
-- 👨‍💻 All of my projects are available at <br/> "https://portfolio-three-rust-93.vercel.app/"
+- 👨‍💻 All of my projects are available at <br/> "https://codveda-0-1-33iy.vercel.app/"
   
 - ⚡ Fun fact: **Not a pro, but getting better every commit**
     
